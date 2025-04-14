@@ -5,4 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello qa guru, from Vadim!");
         }
+    public static void main(String[] args) {
+        System.out.println("mistake on purpose!");
+
     }
